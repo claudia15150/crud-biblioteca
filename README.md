@@ -1,5 +1,7 @@
 # 📚 Biblioteca CRUD
 
+# Integración con MySQL
+
 ¡Bienvenido a la **Biblioteca CRUD**! 🎉  
 Esta aplicación permite gestionar libros en una biblioteca mediante las operaciones CRUD (Crear, Leer, Actualizar, Eliminar). En esta aplicacioón usamos **HTML**, **CSS**, **JavaScript**, y un servidor backend con **Node.js**.
 
@@ -46,7 +48,6 @@ Esta acción es **irreversible**, así que asegúrate de que quieres eliminar el
 
 ### **Backend** 
 - **`server-sql.js`**: Servidor backend que usa MySQL como base de datos. Ofrece las rutas API para gestionar los libros.
-- **`server-mongo.js`**: Servidor backend que usa MongoDB como base de datos. Ofrece las rutas API para gestionar los libros.
 
 ### **Configuración** 
 - **`package.json`**: Archivo de configuración con las dependencias necesarias y scripts para ejecutar los servidores.
@@ -73,10 +74,6 @@ Sigue estos pasos para instalar y configurar el proyecto en tu máquina local:
    npm install
    
 ## Configurar el servidor
-
-- Para usar Mongo DB utiliza el siguiente comando:
-    ```bash
-   npm run servidor-mongo
    
 - Para usar MySQL utiliza el siguiente comando:
     ```bash
