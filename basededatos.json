@@ -1,0 +1,26 @@
+[
+    {
+      "_id": "67db0e955511ace6df247527",
+      "titulo": "Cómo manejar la rabia",
+      "autor": "Claudia",
+      "anio": "2025"
+    },
+    {
+      "_id": "67db0ea85511ace6df247528",
+      "titulo": "Dejar las groserías",
+      "autor": "Kevin",
+      "anio": "2025"
+    },
+    {
+      "_id": "67db0eb95511ace6df247529",
+      "titulo": "No dormir en clase",
+      "autor": "Luisa",
+      "anio": "2025"
+    },
+    {
+      "_id": "67db0eca5511ace6df24752a",
+      "titulo": "Prueba",
+      "autor": "Juan",
+      "anio": "2025"
+    }
+  ]
