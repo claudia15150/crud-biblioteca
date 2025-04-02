@@ -10,7 +10,7 @@ app.use(cors());
 app.use(bodyParser.json());
 
 // Pegar URL se la base de datos de MongoDB
-const url = '';
+const url = 'mongodb+srv://claudiaavila1551:PvGEpKzvvNtQmmSd@cluster0.qab9z.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0';
 const dbName = 'biblioteca';
 let db;
 
