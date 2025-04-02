@@ -77,7 +77,7 @@ Sigue estos pasos para instalar y configurar el proyecto en tu máquina local:
    
 - Para usar MySQL utiliza el siguiente comando:
     ```bash
-   npm run servidor-sql
+   npm run servidor-mongo
  4. Abre el archivo index.html en tu navegador preferido
 
 Y eso es todo, ahora puedes agregar, leer, actualizar y eliminar los libros que quieras y verificar toda esta información en la base de datos que hayas seleccionado
